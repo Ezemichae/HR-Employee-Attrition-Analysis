@@ -1,0 +1,39 @@
+README.md
+
+1) Age Group Distribution
+Insight
+
+The largest proportion of employees falls within the 30–39 years age group, indicating that the organization relies heavily on mid-career professionals.
+
+Recommendation
+Invest in leadership development and career progression opportunities for employees in this age group.
+Strengthen retention initiatives since this group also experiences the highest attrition in your overall analysis.
+
+2) Education Field Distribution
+Insight
+
+Employees with Life Sciences and Medical educational backgrounds make up the majority of the workforce, while Human Resources represents the smallest educational field.
+
+Recommendation
+Continue developing technical and professional training programs tailored to employees from Life Sciences and Medical backgrounds.
+Diversify recruitment where appropriate to broaden the organization's talent base.
+
+3) Marital Status Distribution
+Insight
+
+Most employees are Married, followed by Single, with Divorced employees making up the smallest group.
+
+Recommendation
+Continue supporting flexible work arrangements and employee wellness initiatives that benefit employees with different family and personal responsibilities.
+
+Monitor whether retention strategies should differ across marital status groups.
+
+
+4) Gender Distribution
+Insight
+
+The workforce consists of approximately 60% male employees and 40% female employees, indicating a moderately male-dominated workforce.
+
+Recommendation
+Continue promoting diversity, equity, and inclusion through fair recruitment, promotion, and career development practices.
+Monitor workforce diversity metrics over time to support balanced representation.

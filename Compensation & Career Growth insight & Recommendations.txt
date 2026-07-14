@@ -1,0 +1,48 @@
+README.md
+
+1) Average Monthly Salary by Job Role
+Insight
+
+Managers earn the highest average monthly salary, followed by Research Directors. Sales Executives and Healthcare Representatives earn comparatively lower average salaries.
+
+Recommendation
+Continue reviewing salary structures to ensure compensation remains competitive.
+Evaluate whether lower-paid job roles have sufficient opportunities for career progression and performance-based rewards.
+Conduct regular market benchmarking to maintain equitable pay across comparable roles.
+
+2) Average Monthly Salary by Department
+Insight
+
+Research & Development has the highest average monthly salary, followed closely by Sales and Human Resources.
+
+Recommendation
+Regularly assess salary competitiveness across departments to ensure pay aligns with market rates, job complexity, and employee performance.
+Monitor internal pay equity to support fairness and improve employee retention.
+
+3) Employees by Training Sessions Completed
+Insight
+
+Most employees completed two to three training sessions during the previous year, while relatively few participated in five or more.
+
+Recommendation
+Expand access to learning and development programs.
+Encourage employees to participate in additional training aligned with career goals.
+Measure the impact of training on performance and retention to ensure training investments deliver value.
+
+4) Employee Distribution by Years at Company
+Insight
+
+A large proportion of employees have less than ten years of service, while relatively few have long tenure.
+
+Recommendation
+Strengthen onboarding, mentoring, and early-career support to improve retention during employees' first years.
+Recognize and reward long-serving employees to encourage loyalty and reduce turnover.
+
+5) Employees by Years Since Last Promotion
+Insight
+
+Most employees received a promotion within the past zero to two years, while a smaller number have experienced longer periods without advancement.
+
+Recommendation
+Review promotion policies to ensure employees have transparent career progression opportunities.
+Conduct regular career development discussions with employees who have gone several years without promotion to reduce disengagement and turnover.

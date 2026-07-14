@@ -1,0 +1,52 @@
+README.md
+
+1) Employee Attrition by Job Role
+Insight
+
+Laboratory Technicians, Sales Executives, and Research Scientists account for a large proportion of employee attrition, while Managers experience relatively low turnover.
+
+Recommendation
+Conduct role-specific retention reviews for high-turnover positions.
+Improve career progression, mentoring, and recognition for these roles.
+Review workload and compensation to identify factors contributing to turnover.
+
+2) Employee Attrition by Job Satisfaction
+Insight
+
+Employees with Low and Medium job satisfaction have noticeably higher attrition than those with High or Very High job satisfaction.
+
+Recommendation
+Conduct regular employee engagement surveys.
+Strengthen recognition and reward programs.
+Train managers to provide effective feedback and career support.
+Create clear career development opportunities to improve employee satisfaction.
+
+3) Employee Attrition by Overtime Status
+Insight
+
+A significant proportion of employees who leave the organization work overtime, suggesting that excessive workload may contribute to employee turnover.
+
+Recommendation
+Monitor overtime hours across departments.
+Balance workloads and recruit additional staff where necessary.
+Promote work-life balance through flexible work arrangements and wellness initiatives.
+
+4) Employee Attrition by Work-Life Balance
+Insight
+
+Employees reporting Low or Very Low work-life balance experience higher attrition than those with Good or Very Good work-life balance.
+
+Recommendation
+Introduce flexible working arrangements where feasible.
+Encourage managers to support healthy workloads and leave utilization.
+Expand employee wellbeing and mental health initiatives.
+
+5) Employee Attrition by Business Travel
+Insight
+
+Most employees travel Rarely, followed by Travel Frequently, while Non-Travel employees make up the smallest group. To determine whether travel is a true driver of attrition, compare the attrition rate within each travel category, not just the number of employees.
+
+Recommendation
+Review travel policies to ensure frequent travellers receive adequate support.
+Consider virtual meetings when appropriate.
+Monitor whether frequent travel is linked to lower engagement or higher turnover

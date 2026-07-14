@@ -1,0 +1,33 @@
+README.md
+
+1) Gender Distribution
+Insight
+
+The workforce consists of 60% male employees and 40% female employees.
+
+This reflects a moderately male-dominated workforce.
+
+Recommendation
+
+Continue promoting diversity, equity, and inclusion by ensuring equal opportunities in recruitment, promotion, and professional development.
+
+2) Department Distribution
+Insight
+
+The Research & Development department accounts for approximately 65% of the workforce, making it the organization's largest department.
+
+Sales represents approximately 30%, while Human Resources accounts for about 4%.
+
+Recommendation
+
+Because Research & Development represents the largest workforce segment, management should prioritize employee engagement, career 
+development, and workload management within this department to reduce turnover and maintain productivity.
+
+3) Workforce Size
+Insight
+
+The organization employs 1,470 employees, providing a large workforce across Human Resources, Sales, and Research & Development.
+
+Recommendation
+
+Management should continue monitoring workforce trends to ensure staffing levels remain aligned with business growth and operational demands.
